@@ -1,4 +1,4 @@
-## User bcrypt
+## User bcrypt lib
 
 A library to help you hash passwords.
 
